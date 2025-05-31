@@ -1,6 +1,6 @@
 # LensCraft Photography Portfolio Website
 
-![Website Preview](https://i.imgur.com/JfQ9R8T.png) *(Replace with your actual screenshot)*
+![Website Preview]([https://i.imgur.com/JfQ9R8T.png](https://github.com/DinithSenarathna/LensCraft/blob/b453ddc6a91c317f68f3ee3af121184f02a2d355/assests/Screenshot%202025-05-31%20230550.png)) *(Replace with your actual screenshot)*
 
 A responsive photography portfolio website built with HTML, CSS, and JavaScript. This project showcases a professional photographer's work and services with modern design and smooth user interactions.
 
@@ -37,5 +37,5 @@ A responsive photography portfolio website built with HTML, CSS, and JavaScript.
 No installation required - this is a static website. Simply clone the repository and open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/your-username/photography-portfolio.git
+git clone https://github.com/DinithSenarathna/photography-portfolio.git
 cd photography-portfolio
